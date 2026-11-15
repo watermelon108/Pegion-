@@ -1,0 +1,11 @@
+package com.pegion.app.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Futuristic Pigeon Theme Colors
+val PigeonDarkBackground = Color(0xFF0A0B10) // Deep space dark
+val PigeonDarkSurface = Color(0xFF12141D)    // Slightly lighter cards
+val PigeonNeonCyan = Color(0xFF00E5FF)       // Primary accent
+val PigeonNeonPurple = Color(0xFFB388FF)     // Secondary accent
+val PigeonTextPrimary = Color(0xFFE0E0E0)
+val PigeonTextSecondary = Color(0xFFA0A0A0)
